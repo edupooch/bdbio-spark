@@ -1,0 +1,169 @@
+Mostra dataset completo
++----------+--------------------+--------------------+--------------------+
+|        id|                nome|           organismo|           sequencia|
++----------+--------------------+--------------------+--------------------+
+|CAA23660.1|unnamed protein p...|    Escherichia coli|MRVLKFGGTSLANAERF...|
+|CAA23560.1|unnamed protein p...|    Escherichia coli|MPVITLPDGSQRHYDHA...|
+|CAA23561.1|unnamed protein p...|    Escherichia coli|MKGGKRVQTARPNRING...|
+|CAA23562.1|unnamed protein p...|    Escherichia coli|MARVKRGVIARARHKKI...|
+|CAA23563.1|unnamed protein p...|    Escherichia coli|      MNAAIFRFFFYFST|
+|CAA23564.1|unnamed protein p...|    Escherichia coli|MRKTMSHLAELVASAKA...|
+|CAA23565.1|unnamed protein p...|    Escherichia coli|MKFSELWLREWVNPAID...|
+|CAA23566.1|unnamed protein p...|    Escherichia coli|MALTKAEMSEYLFDKLG...|
+|CAA48733.1|thr leader peptid...|    Escherichia coli|MKRISTTITTTITITTG...|
+|CAA48734.1|thrA  partial [Es...|    Escherichia coli|          MRVLKFGGTS|
+|CAA47740.1|H-ns  partial [Es...|Escherichia coli ...|MSEALKILNNIRTLRAQ...|
+|CAA47741.1|thymidine kinase ...|Escherichia coli ...|MAQLYFYYSAMNAGKST...|
+|CAA47742.1|unnamed protein p...|Escherichia coli ...|MALPPDRTDRGAERYLK...|
+|CAA47743.1|alcohol dehydroge...|Escherichia coli ...|PLISELKQILLDTYYGR...|
+|     43083|       transketolase|Unknown. Unclassi...|MSSRKELANAIRALSMD...|
+|CAA37932.1|tls  partial [Esc...|Escherichia coli ...|DRTAAQDGDMIFFGADN...|
+|CAA42758.1|unnamed protein p...|    Escherichia coli|MELNITSKSNPFGDTTA...|
+|CAA42759.1|resolvase [Escher...|    Escherichia coli|MRLFGYARVSTSQQSLD...|
+|CAA42760.1|transposase [Esch...|    Escherichia coli|MPVDFLTSDQKQNYGCY...|
+|CAA41325.1|integrase  partia...|    Escherichia coli|MKTATAPLPPLRSVKVL...|
++----------+--------------------+--------------------+--------------------+
+only showing top 20 rows
+
+Mostra todos os nomes
++--------------------+
+|                nome|
++--------------------+
+|unnamed protein p...|
+|unnamed protein p...|
+|unnamed protein p...|
+|unnamed protein p...|
+|unnamed protein p...|
+|unnamed protein p...|
+|unnamed protein p...|
+|unnamed protein p...|
+|thr leader peptid...|
+|thrA  partial [Es...|
+|H-ns  partial [Es...|
+|thymidine kinase ...|
+|unnamed protein p...|
+|alcohol dehydroge...|
+|       transketolase|
+|tls  partial [Esc...|
+|unnamed protein p...|
+|resolvase [Escher...|
+|transposase [Esch...|
+|integrase  partia...|
++--------------------+
+only showing top 20 rows
+
+Total de sequências por organismo
++--------------------+-----+
+|           organismo|count|
++--------------------+-----+
+|Mycobacterium tub...|    1|
+|Rickettsia ricket...|   12|
+|Streptococcus pne...|   93|
+|Baboon endogenous...|    3|
+|   Anguilla anguilla|    5|
+|       Columba livia|   10|
+|        Anabaena sp.|   55|
+|Enterobacteria ph...|   55|
+|Enterobacteria ph...|    1|
+|   Squalus acanthias|   10|
+|           Naja atra|    6|
+|Nannospalax ehren...|    6|
+|Encephalartos alt...|    1|
+|      Clupea pallasi|    3|
+|Escherichia virus P1|    3|
+|Budgerigar fledgl...|    1|
+|         Erwinia sp.|    1|
+|Bacillus psychros...|    2|
+|Tetrahymena leuco...|    2|
+|Simian immunodefi...|    1|
++--------------------+-----+
+only showing top 20 rows
+
+Dados ordenados por organismo
++----------+--------------------+--------------------+--------------------+
+|        id|                nome|           organismo|           sequencia|
++----------+--------------------+--------------------+--------------------+
+|    S14137|photosystem II pr...|'Chlorella' ellip...|MTAILERRESASLWARF...|
+|    RKKLLP|ribulose-bisphosp...|'Chlorella' ellip...|MSPQTETKARVGFKAGV...|
+|    A24444|hypothetical prot...|'Chlorella' ellip...|MALSNILLFKIEFYIFS...|
+|    C24444|hypothetical prot...|'Chlorella' ellip...|MENTRENCGLPRETSVS...|
+|    JE0011|DNA-directed RNA ...|'Chlorella' ellip...|ILDITATQITVRKALPF...|
+|    D24444|hypothetical prot...|'Chlorella' ellip...|MFILGKSNYTNFIYGHL...|
+|CAA24493.1|unnamed protein p...|AKR (endogenous) ...|MDTRRPRQGSDHAPDKT...|
+|     GNVWK|pol polyprotein -...|AKR murine leukem...|ELDCQQGTRALLLTLGN...|
+|    VCVWEK|env polyprotein -...|AKV murine leukem...|MESTTLSKPFKNQVNPW...|
+|    GNMVGV|HIV-1 retropepsin...|AKV murine leukem...|GGQGQEPPPEPRITLTV...|
+|    FOMVGV|gag polyprotein -...|AKV murine leukem...|MGQTVTTPLSLTLEHWE...|
+|    WMVW8M|18K protein - Abe...|Abelson murine le...|MEPGGVGSSSCVVHQLP...|
+|    RKKHLR|ribulose-bisphosp...|     Abies magnifica|MSPKTETKASVGFKAGV...|
+|    C41824|ubiquinol-cytochr...|   Abrothrix jelskii|MAIMRKTHPLLKIINHS...|
+|    C39761|abrin (clone 7.2)...|   Abrus precatorius|EDRPIKFSTEGATSQSY...|
+|    B39761|abrin (clone 3.7)...|   Abrus precatorius|NDNEEKARTLIVIIQMV...|
+|    S16022|abrin-c precursor...|   Abrus precatorius|MDKTLKLLILCLAWTCS...|
+|    S14472|ricin D chain A (...|   Abrus precatorius|MEDRPIKFSTEGATSQS...|
+|    S24133|abrin-a chain B -...|   Abrus precatorius|IVEKSKICSSRYEPTVR...|
+|  P28590.1|RecName: Full=Abr...|   Abrus precatorius|MDKTLKLLILCLAWTCS...|
++----------+--------------------+--------------------+--------------------+
+only showing top 20 rows
+
+Seleciona sequencia de id P28590.1
++--------------------+
+|           sequencia|
++--------------------+
+|MDKTLKLLILCLAWTCS...|
++--------------------+
+
+SELECT id, nome, organismo, sequencia FROM proteina
++----------+--------------------+--------------------+--------------------+
+|        id|                nome|           organismo|           sequencia|
++----------+--------------------+--------------------+--------------------+
+|CAA23660.1|unnamed protein p...|    Escherichia coli|MRVLKFGGTSLANAERF...|
+|CAA23560.1|unnamed protein p...|    Escherichia coli|MPVITLPDGSQRHYDHA...|
+|CAA23561.1|unnamed protein p...|    Escherichia coli|MKGGKRVQTARPNRING...|
+|CAA23562.1|unnamed protein p...|    Escherichia coli|MARVKRGVIARARHKKI...|
+|CAA23563.1|unnamed protein p...|    Escherichia coli|      MNAAIFRFFFYFST|
+|CAA23564.1|unnamed protein p...|    Escherichia coli|MRKTMSHLAELVASAKA...|
+|CAA23565.1|unnamed protein p...|    Escherichia coli|MKFSELWLREWVNPAID...|
+|CAA23566.1|unnamed protein p...|    Escherichia coli|MALTKAEMSEYLFDKLG...|
+|CAA48733.1|thr leader peptid...|    Escherichia coli|MKRISTTITTTITITTG...|
+|CAA48734.1|thrA  partial [Es...|    Escherichia coli|          MRVLKFGGTS|
+|CAA47740.1|H-ns  partial [Es...|Escherichia coli ...|MSEALKILNNIRTLRAQ...|
+|CAA47741.1|thymidine kinase ...|Escherichia coli ...|MAQLYFYYSAMNAGKST...|
+|CAA47742.1|unnamed protein p...|Escherichia coli ...|MALPPDRTDRGAERYLK...|
+|CAA47743.1|alcohol dehydroge...|Escherichia coli ...|PLISELKQILLDTYYGR...|
+|     43083|       transketolase|Unknown. Unclassi...|MSSRKELANAIRALSMD...|
+|CAA37932.1|tls  partial [Esc...|Escherichia coli ...|DRTAAQDGDMIFFGADN...|
+|CAA42758.1|unnamed protein p...|    Escherichia coli|MELNITSKSNPFGDTTA...|
+|CAA42759.1|resolvase [Escher...|    Escherichia coli|MRLFGYARVSTSQQSLD...|
+|CAA42760.1|transposase [Esch...|    Escherichia coli|MPVDFLTSDQKQNYGCY...|
+|CAA41325.1|integrase  partia...|    Escherichia coli|MKTATAPLPPLRSVKVL...|
++----------+--------------------+--------------------+--------------------+
+only showing top 20 rows
+
+SELECT nome, sequencia FROM proteina WHERE organismo like 'Bos taurus'
++--------------------+--------------------+
+|                nome|           sequencia|
++--------------------+--------------------+
+|3-methyl-2-oxobut...|MQGSAKMAMAVAVAVAR...|
+|glutamate dehydro...|ADREDDPNFFKMVEGFF...|
+|dihydrofolate red...|VRPLNCIVAVSQNMGIG...|
+|NADH2 dehydrogena...|MFMINILMLIIPILLAV...|
+|NADH2 dehydrogena...|MNPIIFIIILLTIMLGT...|
+|NADH2 dehydrogena...|MNLMLALLTNFTLATLL...|
+|NADH2 dehydrogena...|MSMVYMNIMMAFTVSLV...|
+|NADH2 dehydrogena...|MLKYIIPTIMLMPLTWL...|
+|NADH2 dehydrogena...|MNMFSSLSLVTLLLLTM...|
+|NADH2 dehydrogena...|MMLYIVFILSVIFVMGF...|
+|cytochrome-c oxid...|MFINRWLFSTNHKDIGT...|
+|cytochrome-c oxid...|MAYPMQLGFQDATSPIM...|
+|cytochrome-c oxid...|MTHQTHAYHMVNPSPWP...|
+|cytochrome-c oxid...|SHGSHETDEEFDARWVT...|
+|cytochrome-c oxid...|ASGGGVPTDEEQATGLE...|
+|cytochrome-c oxid...|STALAKPQMRGLLARRL...|
+|cytochrome-c oxid...|MLGQSIRRFTTSVVRRS...|
+|catalase (EC 1.11...|ADNRDPASDQMKHWKEQ...|
+|peptidylglycine m...|MAGFRSLLVLLLVFPSG...|
+|protein kinase (E...|ASGTTASEEERSLRECE...|
++--------------------+--------------------+
+only showing top 20 rows
+
