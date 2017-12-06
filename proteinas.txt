@@ -1,0 +1,3 @@
+123,proteina x,Homo Sapiens,ascihoiashfoghaslxzkvoaish
+124,proteina y,Homo Sapiens,clvkxcjoidhsnasdodsaxcvdsfasfdsc
+125,proteina z,Homo Sapiens,afgdfhgfhodsaxcvdsfasfdsc
